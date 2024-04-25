@@ -1,0 +1,309 @@
+Nivel Humedad,Temperatura,pH,Fase Crecimiento,Exposicion Luz,Frecuencia Regado,Nivel Nitrogeno,Nivel Fosforo,Nivel Potasio,Nivel Calcio,Nivel Magnesio,Nivel Azufre,Infestacion Plagas,Tipo Suelo,Frecuencia Poda,Soporte Estructural,Fecha Cultivo,Peso,Color,Forma,Sabor,Textura,Conteo Semillas,Tiempo Almacenamiento,Usabilidad Fruta,Tasa Supervivencia
+40%,24°C,5.5,Vegetative,Partial shade,Every three days,15 mg/L,3 mg/L,30 mg/L,130 mg/L,55 mg/L,12 mg/L,High,Clayey,Monthly,Stakes,2024-08-10,90g,Green,Round,Sour,Soft,60,10 days,Inedible,100%
+55%,32°C,5.2,Vegetative,Full sun,Every three days,25 mg/L,8 mg/L,35 mg/L,25 mg/L,12 mg/L,3 mg/L,Low,Sandy,Weekly,Stakes,2024-09-02,95g,Green,Round,Balanced,Firm,35,10 days,Inedible,95%
+47%,21°C,5.9,Seedling,Partial shade,Every three days,30 mg/L,9 mg/L,50 mg/L,120 mg/L,55 mg/L,12 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-30,100g,Green,Round,Sour,Soft,55,10 days,Inedible,84%
+54%,30°C,6.4,Flowering,Partial shade,Every three days,65 mg/L,18 mg/L,110 mg/L,90 mg/L,45 mg/L,9 mg/L,High,Sandy,Fortnightly,Trellis,2024-08-15,170g,Yellow,Irregular,Sour,Soft,60,10 days,Inedible,75%
+55%,32°C,5.2,Vegetative,Full sun,Every three days,25 mg/L,8 mg/L,35 mg/L,25 mg/L,12 mg/L,3 mg/L,Low,Sandy,Weekly,Stakes,2024-09-02,95g,Green,Round,Balanced,Firm,35,10 days,Inedible,75%
+52%,21°C,5.9,Maturity,Partial shade,Every three days,40 mg/L,9 mg/L,60 mg/L,110 mg/L,50 mg/L,11 mg/L,High,Clayey,Monthly,Stakes,2024-07-30,105g,Green,Round,Sour,Soft,65,10 days,Inedible,74%
+68%,29°C,6.4,Seedling,Full sun,Every two days,150 mg/L,30 mg/L,230 mg/L,180 mg/L,80 mg/L,35 mg/L,High,Loamy,Fortnightly,Cage,2024-08-15,170g,Red,Elongated,Sour,Firm,70,10 days,Canning,72%
+57%,21°C,5.9,Seedling,Partial shade,Every three days,40 mg/L,9 mg/L,60 mg/L,110 mg/L,50 mg/L,11 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-30,105g,Green,Round,Sour,Soft,65,10 days,Inedible,70%
+60%,22°C,6,Vegetative,Full sun,Every three days,100 mg/L,35 mg/L,180 mg/L,130 mg/L,70 mg/L,25 mg/L,Low,Sandy,Fortnightly,Trellis,2024-09-02,130g,Red,Round,Sour,Firm,70,10 days,Fresh consumption,70%
+74%,32°C,6.8,Vegetative,Full sun,Every three days,150 mg/L,45 mg/L,200 mg/L,250 mg/L,100 mg/L,35 mg/L,High,Sandy,Weekly,Stakes,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,65%
+74%,32°C,6.8,Vegetative,Full sun,Every three days,150 mg/L,45 mg/L,200 mg/L,250 mg/L,100 mg/L,35 mg/L,High,Sandy,Weekly,Stakes,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,60%
+61%,23°C,6.2,Vegetative,Full sun,Every three days,100 mg/L,25 mg/L,150 mg/L,130 mg/L,60 mg/L,18 mg/L,High,Clayey,Monthly,Cage,2024-10-10,150g,Green,Round,Sour,Firm,65,10 days,Canning,56%
+65%,25°C,6.4,Seedling,Full sun,Every three days,150 mg/L,30 mg/L,230 mg/L,180 mg/L,80 mg/L,35 mg/L,High,Sandy,Weekly,Trellis,2024-08-15,170g,Red,Elongated,Sour,Firm,70,10 days,Canning,55%
+55%,32°C,5.2,Vegetative,Full sun,Every three days,25 mg/L,8 mg/L,35 mg/L,25 mg/L,12 mg/L,3 mg/L,Low,Sandy,Weekly,Stakes,2024-09-02,95g,Green,Round,Balanced,Firm,35,10 days,Inedible,48%
+78%,28°C,6.2,Seedling,Full sun,Every two days,110 mg/L,25 mg/L,230 mg/L,190 mg/L,90 mg/L,20 mg/L,High,Sandy,Fortnightly,Trellis,2024-08-05,210g,Yellow,Irregular,Sour,Firm,70,10 days,Canning,47%
+66%,30°C,6.4,Vegetative,Full sun,Every three days,115 mg/L,30 mg/L,190 mg/L,170 mg/L,85 mg/L,23 mg/L,Medium,Clayey,Monthly,Trellis,2024-11-01,150g,Red,Round,Sour,Firm,75,10 days,Fresh consumption,45%
+72%,31°C,6.5,Flowering,Full sun,Every two days,120 mg/L,40 mg/L,210 mg/L,170 mg/L,70 mg/L,35 mg/L,High,Clayey,Monthly,Cage,2024-09-10,170g,Red,Elongated,Sweet,Soft,130,10 days,Juice,45%
+63%,26°C,6.7,Vegetative,Full sun,Every three days,110 mg/L,26 mg/L,180 mg/L,150 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Monthly,Trellis,2024-11-05,145g,Red,Round,Balanced,Firm,75,10 days,Fresh consumption,45%
+62%,22°C,6.4,Vegetative,Full sun,Every three days,115 mg/L,30 mg/L,185 mg/L,160 mg/L,85 mg/L,23 mg/L,Low,Sandy,Fortnightly,Trellis,2024-09-10,140g,Red,Round,Sour,Firm,75,10 days,Canning,45%
+74%,32°C,6.8,Vegetative,Full sun,Every three days,150 mg/L,45 mg/L,200 mg/L,250 mg/L,100 mg/L,35 mg/L,High,Sandy,Weekly,Stakes,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,43%
+72%,32°C,6.2,Fruit,Full sun,Every three days,150 mg/L,40 mg/L,240 mg/L,200 mg/L,100 mg/L,30 mg/L,Medium,Clayey,Fortnightly,Cage,2024-09-25,180g,Orange,Round,Sweet,Soft,100,10 days,Canning,42%
+72%,32°C,6.2,Fruit,Full sun,Every three days,150 mg/L,40 mg/L,240 mg/L,200 mg/L,100 mg/L,30 mg/L,Medium,Clayey,Fortnightly,Cage,2024-09-25,180g,Orange,Round,Sweet,Soft,100,10 days,Canning,42%
+65%,31°C,6,Vegetative,Full sun,Every three days,150 mg/L,35 mg/L,180 mg/L,200 mg/L,100 mg/L,25 mg/L,Medium,Loamy,Monthly,Cage,2024-09-10,170g,Yellow,Irregular,Balanced,Firm,90,10 days,Juice,40%
+65%,31°C,6,Vegetative,Full sun,Every three days,150,35,180,200,100,25,Medium,Loamy,Monthly,Cage,2024-09-10,170g,Yellow,Irregular,Balanced,Firm,90,10 days,Juice,40%
+74%,32°C,6.8,Vegetative,Full sun,Every three days,150 mg/L,45 mg/L,200 mg/L,250 mg/L,100 mg/L,35 mg/L,High,Sandy,Weekly,Stakes,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,35%
+80%,25°C,6.3,Vegetative,Full sun,Every three days,120 mg/L,35 mg/L,210 mg/L,160 mg/L,90 mg/L,25 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,32%
+80%,25°C,6.3,Vegetative,Full sun,Every three days,120,35,210,160,90,25,Medium,Sandy,Fortnightly,Trellis,2024-09-02,130g,Red,Round,Balanced,Firm,80,10 days,Fresh consumption,32%
+70%,28°C,6.6,Maturity,Full sun,Every three days,150 mg/L,30 mg/L,240 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-10-20,240g,Red,Elongated,Balanced,Firm,140,10 days,Fresh consumption,28%
+70%,28°C,6.6,Maturity,Full sun,Every three days,150 mg/L,30 mg/L,240 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-10-20,240g,Red,Elongated,Balanced,Firm,140,10 days,Fresh consumption,28%
+55%,32°C,5.2,Vegetative,Full sun,Every three days,25 mg/L,8 mg/L,35 mg/L,25 mg/L,12 mg/L,3 mg/L,Low,Sandy,Weekly,Stakes,2024-09-02,95g,Green,Round,Balanced,Firm,35,10 days,Inedible,20%
+68%,29°C,6.9,Flowering,Full sun,Every three days,120 mg/L,30 mg/L,200 mg/L,180 mg/L,70 mg/L,30 mg/L,Medium,Clayey,Monthly,Trellis,2024-09-10,270g,Red,Irregular,Sweet,Firm,170,10 days,Juice,20%
+68%,29°C,6.9,Flowering,Full sun,Every three days,120 mg/L,30 mg/L,200 mg/L,180 mg/L,70 mg/L,30 mg/L,Medium,Clayey,Monthly,Trellis,2024-09-10,270g,Red,Irregular,Sweet,Firm,170,10 days,Juice,20%
+38%,22°C,5.8,Maturity,Partial shade,Every three days,10 mg/L,2 mg/L,20 mg/L,140 mg/L,60 mg/L,13 mg/L,High,Clayey,Monthly,Stakes,2024-08-15,95g,Green,Round,Sour,Soft,65,11 days,Inedible,100%
+54%,27°C,5.6,Flowering,Partial shade,Every three days,25 mg/L,8 mg/L,40 mg/L,130 mg/L,60 mg/L,13 mg/L,Medium,Clayey,Monthly,Stakes,2024-08-05,105g,Green,Round,Sour,Soft,60,11 days,Inedible,80%
+56%,26°C,6.7,Vegetative,Full sun,Every three days,75 mg/L,22 mg/L,120 mg/L,100 mg/L,50 mg/L,12 mg/L,Low,Clayey,Monthly,Cage,2024-09-10,180g,Red,Round,Sour,Soft,65,11 days,Inedible,80%
+64%,27°C,5.6,Flowering,Partial shade,Every three days,35 mg/L,8 mg/L,50 mg/L,120 mg/L,55 mg/L,12 mg/L,Medium,Clayey,Monthly,Stakes,2024-08-05,110g,Green,Round,Sour,Soft,70,11 days,Inedible,70%
+61%,31°C,5.5,Maturity,Full sun,Every two days,50 mg/L,14 mg/L,80 mg/L,70 mg/L,35 mg/L,5 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-10-05,190g,Orange,Elongated,Sour,Soft,70,12 days,Inedible,81%
+48%,24°C,5.8,Vegetative,Partial shade,Every three days,20 mg/L,7 mg/L,30 mg/L,140 mg/L,65 mg/L,14 mg/L,Medium,Clayey,Monthly,Stakes,2024-08-10,110g,Green,Round,Sour,Soft,65,12 days,Inedible,79%
+75%,31°C,6.3,Flowering,Full sun,Every two days,120 mg/L,35 mg/L,200 mg/L,170 mg/L,70 mg/L,30 mg/L,Medium,Clayey,Monthly,Stakes,2024-10-05,150g,Orange,Round,Sour,Soft,60,12 days,Juice,78%
+65%,27°C,6.3,Seedling,Full sun,Every three days,150 mg/L,30 mg/L,220 mg/L,190 mg/L,100 mg/L,25 mg/L,Medium,Loamy,Weekly,Stakes,2024-08-15,160g,Orange,Round,Balanced,Firm,120,12 days,Canning,70%
+82%,26°C,6.8,Maturity,Full sun,Every two days,100 mg/L,40 mg/L,220 mg/L,190 mg/L,80 mg/L,30 mg/L,Medium,Sandy,Weekly,Stakes,2024-08-15,180g,Red,Elongated,Sweet,Soft,80,12 days,Canning,46%
+82%,26°C,6.8,Maturity,Full sun,Every two days,100,40,220,190,80,30,Medium,Sandy,Weekly,Stakes,2024-08-15,180g,Red,Elongated,Sweet,Soft,80,12 days,Canning,45%
+77%,27°C,6.7,Seed,Full sun,Every two days,140 mg/L,35 mg/L,220 mg/L,160 mg/L,80 mg/L,30 mg/L,Medium,Loamy,Weekly,Stakes,2024-08-15,250g,Red,Elongated,Balanced,Soft,150,12 days,Canning,26%
+77%,27°C,6.7,Seed,Full sun,Every two days,140 mg/L,35 mg/L,220 mg/L,160 mg/L,80 mg/L,30 mg/L,Medium,Loamy,Weekly,Stakes,2024-08-15,250g,Red,Elongated,Balanced,Soft,150,12 days,Canning,26%
+67%,28°C,6.2,Seedling,Full sun,Every two days,60 mg/L,15 mg/L,100 mg/L,90 mg/L,45 mg/L,8 mg/L,High,Loamy,Weekly,Trellis,2024-08-25,200g,Yellow,Round,Sour,Soft,75,13 days,Inedible,80%
+51%,22°C,6.1,Maturity,Partial shade,Every three days,15 mg/L,6 mg/L,20 mg/L,150 mg/L,70 mg/L,15 mg/L,Medium,Clayey,Monthly,Stakes,2024-08-15,115g,Green,Round,Sour,Soft,70,13 days,Inedible,75%
+52%,33°C,6.9,Flowering,Full sun,Every three days,70 mg/L,20 mg/L,120 mg/L,110 mg/L,55 mg/L,10 mg/L,Medium,Sandy,Monthly,Cage,2024-09-20,210g,Red,Round,Sour,Soft,80,14 days,Inedible,76%
+53%,29°C,5.8,Vegetative,Full sun,Every three days,80 mg/L,25 mg/L,130 mg/L,100 mg/L,50 mg/L,12 mg/L,Low,Clayey,Fortnightly,Trellis,2024-10-15,220g,Orange,Round,Sour,Soft,85,15 days,Inedible,80%
+58%,32°C,7,Seed,Full sun,Every two days,55 mg/L,10 mg/L,100 mg/L,80 mg/L,40 mg/L,7 mg/L,High,Loamy,Weekly,Cage,2024-07-25,230g,Red,Elongated,Sour,Soft,90,16 days,Inedible,76%
+64%,26°C,6.3,Seedling,Full sun,Every three days,65 mg/L,15 mg/L,110 mg/L,90 mg/L,45 mg/L,9 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-08-20,240g,Yellow,Irregular,Sour,Soft,95,17 days,Inedible,80%
+59%,30°C,5.5,Flowering,Partial shade,Every three days,75 mg/L,18 mg/L,120 mg/L,100 mg/L,50 mg/L,10 mg/L,High,Clayey,Monthly,Cage,2024-09-15,250g,Orange,Round,Sour,Soft,100,18 days,Inedible,77%
+61%,27°C,7.2,Vegetative,Full sun,Every three days,85 mg/L,22 mg/L,130 mg/L,110 mg/L,55 mg/L,12 mg/L,Low,Loamy,Weekly,Trellis,2024-10-10,260g,Red,Round,Sour,Soft,105,19 days,Inedible,80%
+40%,25°C,5.5,Seed,Partial shade,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Stakes,2024-07-01,50g,Green,Round,Sour,Soft,20,2 days,Inedible,97%
+45%,15°C,5,Seed,Partial shade,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Stakes,2024-05-01,50g,Green,Round,Sour,Soft,20,2 days,Inedible,95%
+55%,31°C,6.6,Maturity,Full sun,Every two days,60 mg/L,16 mg/L,90 mg/L,80 mg/L,35 mg/L,6 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-11-05,270g,Yellow,Elongated,Sour,Soft,110,20 days,Inedible,75%
+53%,29°C,5.8,Seedling,Full sun,Every two days,70 mg/L,15 mg/L,110 mg/L,90 mg/L,45 mg/L,8 mg/L,High,Loamy,Weekly,Cage,2024-07-30,280g,Orange,Round,Sour,Soft,115,21 days,Inedible,79%
+59%,34°C,6.1,Flowering,Partial shade,Every three days,80 mg/L,18 mg/L,120 mg/L,100 mg/L,50 mg/L,9 mg/L,Medium,Clayey,Fortnightly,Trellis,2024-08-25,290g,Red,Irregular,Sour,Soft,120,22 days,Inedible,76%
+45%,22°C,5.6,Seedling,Partial shade,Every three days,55 mg/L,12 mg/L,110 mg/L,60 mg/L,25 mg/L,6 mg/L,High,Clayey,Monthly,Stakes,2024-07-05,55g,Green,Round,Sour,Soft,25,3 days,Inedible,95%
+60%,28°C,5.8,Seedling,Full sun,Every two days,30 mg/L,10 mg/L,40 mg/L,30 mg/L,15 mg/L,5 mg/L,Low,Sandy,Weekly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,25,3 days,Inedible,88%
+60%,28°C,5.8,Seedling,Full sun,Every two days,30 mg/L,10 mg/L,40 mg/L,30 mg/L,15 mg/L,5 mg/L,Low,Sandy,Weekly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,25,3 days,Inedible,82%
+58%,32°C,6.8,Seed,Full sun,Every three days,50 mg/L,10 mg/L,100 mg/L,80 mg/L,40 mg/L,5 mg/L,High,Clayey,Weekly,Stakes,2024-06-15,100g,Red,Round,Sour,Soft,30,3 days,Inedible,80%
+75%,30°C,6.7,Seedling,Full sun,Every two days,160 mg/L,30 mg/L,200 mg/L,180 mg/L,90 mg/L,20 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-07-10,90g,Yellow,Round,Sour,Juicy,60,3 days,Juice,78%
+55%,25°C,6.2,Seedling,Partial shade,Every two days,90 mg/L,25 mg/L,160 mg/L,120 mg/L,60 mg/L,20 mg/L,High,Sandy,Fortnightly,Trellis,2024-07-10,110g,Yellow,Round,Sour,Juicy,50,3 days,Juice,77%
+70%,28°C,6.9,Seedling,Full sun,Every two days,200 mg/L,35 mg/L,250 mg/L,180 mg/L,80 mg/L,45 mg/L,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,72%
+70%,28°C,6.9,Seedling,Full sun,Every two days,200 mg/L,35 mg/L,250 mg/L,180 mg/L,80 mg/L,45 mg/L,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,70%
+60%,28°C,5.8,Seedling,Full sun,Every two days,30 mg/L,10 mg/L,40 mg/L,30 mg/L,15 mg/L,5 mg/L,Low,Sandy,Weekly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,25,3 days,Inedible,65%
+70%,28°C,6.9,Seedling,Full sun,Every two days,200 mg/L,35 mg/L,250 mg/L,180 mg/L,80 mg/L,45 mg/L,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,60%
+78%,29°C,6.8,Seed,Full sun,Every two days,130 mg/L,35 mg/L,200 mg/L,180 mg/L,70 mg/L,35 mg/L,High,Sandy,Fortnightly,Trellis,2024-07-10,140g,Yellow,Round,Sour,Soft,110,3 days,Juice,55%
+75%,27°C,6.2,Seed,Full sun,Every three days,120 mg/L,25 mg/L,190 mg/L,180 mg/L,90 mg/L,35 mg/L,High,Loamy,Weekly,Cage,2024-07-10,220g,Yellow,Round,Sweet,Juicy,70,3 days,Fresh consumption,55%
+75%,27°C,6.6,Seedling,Full sun,Every three days,120 mg/L,25 mg/L,220 mg/L,180 mg/L,80 mg/L,25 mg/L,Low,Clayey,Weekly,Stakes,2024-07-10,180g,Yellow,Irregular,Sour,Juicy,70,3 days,Fresh consumption,50%
+70%,28°C,6.9,Seedling,Full sun,Every two days,200 mg/L,35 mg/L,250 mg/L,180 mg/L,80 mg/L,45 mg/L,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,50%
+75%,35°C,6.9,Seedling,Full sun,Every two days,160 mg/L,25 mg/L,220 mg/L,170 mg/L,70 mg/L,35 mg/L,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,45%
+75%,35°C,6.9,Seedling,Full sun,Every two days,160,25,220,170,70,35,High,Sandy,Weekly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,44%
+72%,30°C,6.7,Seedling,Full sun,Every three days,140 mg/L,35 mg/L,210 mg/L,170 mg/L,90 mg/L,20 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-07-10,110g,Yellow,Round,Sour,Juicy,60,3 days,Juice,41%
+80%,26°C,6.8,Seedling,Full sun,Every two days,160 mg/L,30 mg/L,210 mg/L,170 mg/L,70 mg/L,35 mg/L,High,Loamy,Weekly,Stakes,2024-07-10,210g,Yellow,Round,Sour,Soft,120,3 days,Juice,30%
+80%,26°C,6.8,Seedling,Full sun,Every two days,160 mg/L,30 mg/L,210 mg/L,170 mg/L,70 mg/L,35 mg/L,High,Loamy,Weekly,Stakes,2024-07-10,210g,Yellow,Round,Sour,Soft,120,3 days,Juice,30%
+60%,28°C,5.8,Seedling,Full sun,Every two days,30 mg/L,10 mg/L,40 mg/L,30 mg/L,15 mg/L,5 mg/L,Low,Sandy,Weekly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,25,3 days,Inedible,29%
+60%,20°C,6,Seedling,Full sun,Every two days,90 mg/L,25 mg/L,110 mg/L,100 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Juicy,40,3 days,Juice,20%
+57%,20°C,6.1,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,100 mg/L,90 mg/L,50 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,15%
+60%,20°C,6,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,110 mg/L,80 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,12%
+57%,20°C,6.1,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,100 mg/L,90 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,10%
+62%,26°C,6.7,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,100 mg/L,90 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,9%
+62%,26°C,6.4,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,100 mg/L,90 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,5%
+62%,26°C,6,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,100 mg/L,90 mg/L,60 mg/L,15 mg/L,Low,Loamy,Weekly,Trellis,2024-07-10,100g,Yellow,Round,Sour,Firm,50,3 days,Juice,4%
+42%,24°C,5.4,Flowering,Partial shade,Every three days,45 mg/L,9 mg/L,90 mg/L,70 mg/L,20 mg/L,4 mg/L,High,Clayey,Monthly,Stakes,2024-07-10,60g,Green,Round,Sour,Soft,30,4 days,Inedible,96%
+53%,24°C,6,Seed,Partial shade,Every three days,70 mg/L,16 mg/L,120 mg/L,70 mg/L,30 mg/L,7 mg/L,High,Clayey,Monthly,Stakes,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,92%
+50%,25°C,6,Seed,Partial shade,Every three days,60 mg/L,15 mg/L,110 mg/L,60 mg/L,25 mg/L,6 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-01,70g,Green,Round,Sour,Soft,25,4 days,Inedible,89%
+65%,40°C,6.5,Seed,Full sun,Every three days,100 mg/L,20 mg/L,180 mg/L,120 mg/L,60 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,89%
+65%,40°C,6.5,Seed,Full sun,Every three days,100 mg/L,20 mg/L,180 mg/L,120 mg/L,60 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,89%
+65%,10°C,6.5,Seed,Full sun,Every three days,100 mg/L,20 mg/L,180 mg/L,120 mg/L,60 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,86%
+65%,10°C,6.5,Seed,Full sun,Every three days,100 mg/L,20 mg/L,180 mg/L,120 mg/L,60 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,85%
+58%,25°C,6,Vegetative,Partial shade,Every three days,70 mg/L,16 mg/L,120 mg/L,70 mg/L,30 mg/L,7 mg/L,High,Clayey,Monthly,Stakes,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,83%
+62%,35°C,6,Seedling,Full sun,Every two days,60 mg/L,15 mg/L,110 mg/L,90 mg/L,45 mg/L,8 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-07-10,110g,Yellow,Round,Sour,Soft,40,4 days,Inedible,81%
+60%,25°C,6,Seed,Partial shade,Every three days,70 mg/L,16 mg/L,120 mg/L,70 mg/L,30 mg/L,7 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,78%
+75%,20°C,6.2,Seed,Full sun,Every three days,90 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,78%
+65%,20°C,6.2,Seed,Full sun,Every three days,90 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,75%
+70%,22°C,6.2,Seed,Full sun,Every three days,90 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-01,75g,Green,Round,Sour,Soft,35,4 days,Inedible,73%
+80%,33°C,6.3,Seedling,Full sun,Every two days,85 mg/L,23 mg/L,165 mg/L,130 mg/L,55 mg/L,17 mg/L,High,Sandy,Fortnightly,Trellis,2024-07-20,105g,Yellow,Round,Sour,Firm,50,4 days,Juice,70%
+78%,33°C,5.8,Maturity,Full sun,Every two days,90 mg/L,21 mg/L,165 mg/L,160 mg/L,75 mg/L,20 mg/L,Medium,Clayey,Weekly,Cage,2024-07-20,105g,Yellow,Round,Sour,Firm,65,4 days,Juice,70%
+60%,28°C,6.2,Seedling,Full sun,Every two days,80 mg/L,25 mg/L,160 mg/L,120 mg/L,60 mg/L,20 mg/L,High,Sandy,Fortnightly,Trellis,2024-07-15,115g,Yellow,Oval,Sour,Juicy,45,4 days,Preserves,69%
+78%,33°C,5.8,Maturity,Full sun,Every two days,90 mg/L,21 mg/L,165 mg/L,160 mg/L,75 mg/L,20 mg/L,Medium,Clayey,Weekly,Cage,2024-07-20,105g,Yellow,Round,Sour,Firm,65,4 days,Juice,45%
+78%,33°C,6.6,Maturity,Full sun,Every two days,140 mg/L,30 mg/L,200 mg/L,160 mg/L,80 mg/L,25 mg/L,None,Clayey,Weekly,Cage,2024-07-20,200g,Yellow,Round,Sweet,Firm,100,4 days,Juice,20%
+38%,28°C,5.8,Vegetative,Partial shade,Every three days,40 mg/L,8 mg/L,80 mg/L,80 mg/L,30 mg/L,7 mg/L,High,Clayey,Monthly,Stakes,2024-07-15,65g,Green,Round,Sour,Soft,35,5 days,Inedible,97%
+70%,40°C,6.3,Seedling,Full sun,Every three days,110 mg/L,30 mg/L,190 mg/L,150 mg/L,80 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,92%
+70%,40°C,6.3,Seedling,Full sun,Every three days,110 mg/L,30 mg/L,190 mg/L,150 mg/L,80 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,90%
+49%,23°C,6.2,Seedling,Partial shade,Every three days,65 mg/L,15 mg/L,110 mg/L,80 mg/L,35 mg/L,8 mg/L,High,Clayey,Monthly,Stakes,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,90%
+55%,22°C,6.2,Seedling,Partial shade,Every three days,55 mg/L,14 mg/L,100 mg/L,70 mg/L,30 mg/L,7 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-05,75g,Green,Round,Sour,Soft,30,5 days,Inedible,88%
+65%,25°C,5.5,Seed,Full sun,Every three days,20 mg/L,5 mg/L,30 mg/L,20 mg/L,10 mg/L,2 mg/L,Medium,Clayey,Monthly,Cage,2024-06-15,80g,Green,Round,Sour,Soft,20,5 days,Inedible,85%
+70%,10°C,6.3,Seedling,Full sun,Every three days,110 mg/L,30 mg/L,190 mg/L,150 mg/L,80 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,85%
+70%,10°C,6.3,Seedling,Full sun,Every three days,110 mg/L,30 mg/L,190 mg/L,150 mg/L,80 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,84%
+65%,25°C,5.5,Seed,Full sun,Every three days,20 mg/L,5 mg/L,30 mg/L,20 mg/L,10 mg/L,2 mg/L,Medium,Clayey,Monthly,Cage,2024-06-15,80g,Green,Round,Sour,Soft,20,5 days,Inedible,84%
+65%,28°C,6.5,Seed,Full sun,Every three days,80 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,15 mg/L,Medium,Loamy,Weekly,Stakes,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,81%
+63%,22°C,6.2,Maturity,Partial shade,Every three days,65 mg/L,15 mg/L,110 mg/L,80 mg/L,35 mg/L,8 mg/L,High,Clayey,Monthly,Stakes,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,80%
+55%,28°C,6.5,Flowering,Partial shade,Every three days,70 mg/L,20 mg/L,120 mg/L,100 mg/L,50 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-08-05,120g,Orange,Irregular,Sour,Soft,35,5 days,Inedible,76%
+65%,22°C,6.2,Seedling,Partial shade,Every three days,65 mg/L,15 mg/L,110 mg/L,80 mg/L,35 mg/L,8 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,75%
+70%,22°C,6,Seedling,Full sun,Every three days,80 mg/L,18 mg/L,140 mg/L,110 mg/L,55 mg/L,14 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,75%
+68%,25°C,6.5,Seed,Full sun,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,75%
+60%,25°C,6.3,Seed,Full sun,Every three days,80 mg/L,25 mg/L,160 mg/L,150 mg/L,80 mg/L,15 mg/L,Medium,Loamy,Weekly,Cage,2024-06-15,80g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,74%
+60%,22°C,6,Seedling,Full sun,Every three days,80 mg/L,18 mg/L,140 mg/L,110 mg/L,55 mg/L,14 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,73%
+68%,25°C,6.5,Seed,Full sun,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,72%
+65%,24°C,6,Seedling,Full sun,Every three days,80 mg/L,18 mg/L,140 mg/L,110 mg/L,55 mg/L,14 mg/L,Medium,Clayey,Monthly,Cage,2024-07-05,80g,Green,Round,Sour,Soft,40,5 days,Inedible,70%
+65%,25°C,5.5,Seed,Full sun,Every three days,20 mg/L,5 mg/L,30 mg/L,20 mg/L,10 mg/L,2 mg/L,Medium,Clayey,Monthly,Cage,2024-06-15,80g,Green,Round,Sour,Soft,20,5 days,Inedible,70%
+70%,28°C,5.5,Seedling,Full sun,Every two days,80 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,10 mg/L,Medium,Loamy,Weekly,Stakes,2024-07-15,120g,Red,Round,Sour,Firm,50,5 days,Fresh consumption,69%
+68%,25°C,6.5,Seed,Full sun,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,67%
+70%,30°C,6.3,Maturity,Full sun,Every two days,100 mg/L,30 mg/L,220 mg/L,200 mg/L,80 mg/L,25 mg/L,Low,Loamy,Fortnightly,Trellis,2024-06-15,200g,Red,Round,Sour,Soft,80,5 days,Sauce,65%
+60%,22°C,7.2,Vegetative,Full sun,Every three days,110 mg/L,28 mg/L,155 mg/L,140 mg/L,65 mg/L,22 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-10-01,140g,Green,Round,Sweet,Firm,70,5 days,Preserves,60%
+68%,25°C,6.5,Seed,Full sun,Every three days,50 mg/L,10 mg/L,100 mg/L,50 mg/L,20 mg/L,5 mg/L,High,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,60%
+68%,28°C,6.6,Seed,Full sun,Every two days,90 mg/L,20 mg/L,150 mg/L,100 mg/L,50 mg/L,10 mg/L,Medium,Loamy,Weekly,Stakes,2024-07-15,120g,Red,Round,Sour,Soft,50,5 days,Fresh consumption,55%
+68%,32°C,5.8,Seed,Full sun,Every three days,90 mg/L,20 mg/L,180 mg/L,120 mg/L,60 mg/L,10 mg/L,Medium,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,50%
+68%,32°C,5.8,Seed,Full sun,Every three days,90,20,180,120,60,10,Medium,Clayey,Monthly,Cage,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,50%
+60%,22°C,7.5,Seed,Full sun,Every three days,110 mg/L,28 mg/L,155 mg/L,140 mg/L,65 mg/L,22 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-10-01,140g,Green,Round,Sweet,Firm,70,5 days,Preserves,50%
+67%,29°C,6.7,Vegetative,Full sun,Every three days,120 mg/L,32 mg/L,180 mg/L,140 mg/L,65 mg/L,21 mg/L,Medium,Clayey,Monthly,Trellis,2024-10-01,145g,Green,Oval,Sweet,Juicy,60,5 days,Salad,45%
+65%,28°C,6.4,Seed,Full sun,Every two days,120 mg/L,30 mg/L,200 mg/L,180 mg/L,70 mg/L,25 mg/L,Medium,Loamy,Weekly,Stakes,2024-06-15,100g,Red,Round,Sweet,Firm,40,5 days,Fresh consumption,45%
+68%,29°C,6.5,Seed,Full sun,Every two days,130 mg/L,35 mg/L,210 mg/L,160 mg/L,70 mg/L,30 mg/L,High,Sandy,Fortnightly,Cage,2024-06-15,200g,Orange,Round,Balanced,Firm,80,5 days,Sauce,45%
+65%,25°C,5.5,Seed,Full sun,Every three days,20 mg/L,5 mg/L,30 mg/L,20 mg/L,10 mg/L,2 mg/L,Medium,Clayey,Monthly,Cage,2024-06-15,80g,Green,Round,Sour,Soft,20,5 days,Inedible,35%
+70%,28°C,6.7,Seed,Full sun,Every two days,120 mg/L,25 mg/L,160 mg/L,120 mg/L,70 mg/L,20 mg/L,None,Loamy,Weekly,Stakes,2024-07-15,140g,Red,Round,Sweet,Soft,60,5 days,Fresh consumption,28%
+72%,25°C,7,Vegetative,Full sun,Every three days,150 mg/L,40 mg/L,190 mg/L,150 mg/L,100 mg/L,35 mg/L,None,Loamy,Fortnightly,Trellis,2024-10-01,180g,Green,Round,Balanced,Soft,90,5 days,Preserves,25%
+55%,18°C,5.8,Seed,Partial shade,Every three days,80 mg/L,20 mg/L,100 mg/L,80 mg/L,50 mg/L,10 mg/L,Medium,Clayey,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Firm,30,5 days,Inedible,20%
+52%,18°C,5.9,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,90 mg/L,70 mg/L,60 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,17%
+55%,18°C,5.8,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,100 mg/L,90 mg/L,50 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,12%
+52%,18°C,5.9,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,90 mg/L,80 mg/L,50 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,10%
+58%,24°C,6.5,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,90 mg/L,80 mg/L,50 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,9%
+48%,24°C,6.2,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,90 mg/L,80 mg/L,50 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,5%
+48%,24°C,5.8,Seed,Partial shade,Every three days,70 mg/L,20 mg/L,90 mg/L,80 mg/L,50 mg/L,10 mg/L,Medium,Sandy,Monthly,Stakes,2024-06-15,90g,Green,Round,Sour,Soft,40,5 days,Inedible,4%
+41%,26°C,5.3,Maturity,Partial shade,Every three days,35 mg/L,7 mg/L,70 mg/L,90 mg/L,35 mg/L,8 mg/L,High,Clayey,Monthly,Stakes,2024-07-20,70g,Green,Round,Sour,Soft,40,6 days,Inedible,97%
+75%,40°C,6,Flowering,Full sun,Every three days,120 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,95%
+75%,40°C,6,Flowering,Full sun,Every three days,120 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,95%
+56%,26°C,5.8,Flowering,Partial shade,Every three days,60 mg/L,14 mg/L,100 mg/L,90 mg/L,40 mg/L,9 mg/L,High,Clayey,Monthly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,90%
+48%,24°C,5.8,Flowering,Partial shade,Every three days,50 mg/L,13 mg/L,90 mg/L,80 mg/L,35 mg/L,8 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-10,80g,Green,Round,Sour,Soft,35,6 days,Inedible,86%
+75%,10°C,6,Flowering,Full sun,Every three days,120 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,83%
+75%,10°C,6,Flowering,Full sun,Every three days,120 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,82%
+78%,27°C,6.2,Vegetative,Full sun,Every three days,140 mg/L,25 mg/L,240 mg/L,160 mg/L,90 mg/L,25 mg/L,Medium,Sandy,Weekly,Cage,2024-07-20,140g,Yellow,Elongated,Balanced,Juicy,70,6 days,Fresh consumption,82%
+56%,24°C,5.8,Seed,Partial shade,Every three days,60 mg/L,14 mg/L,100 mg/L,90 mg/L,40 mg/L,9 mg/L,High,Clayey,Monthly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,80%
+63%,25°C,6.9,Vegetative,Full sun,Every three days,80 mg/L,25 mg/L,130 mg/L,110 mg/L,60 mg/L,15 mg/L,High,Loamy,Weekly,Trellis,2024-09-02,130g,Red,Round,Sour,Soft,45,6 days,Inedible,75%
+58%,24°C,5.8,Flowering,Partial shade,Every three days,60 mg/L,14 mg/L,100 mg/L,90 mg/L,40 mg/L,9 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,75%
+75%,30°C,5,Flowering,Full sun,Every three days,85 mg/L,22 mg/L,140 mg/L,130 mg/L,60 mg/L,15 mg/L,High,Clayey,Monthly,Cage,2024-09-05,135g,Orange,Irregular,Sour,Juicy,55,6 days,Canning,73%
+65%,24°C,5.8,Flowering,Full sun,Every three days,70 mg/L,16 mg/L,130 mg/L,120 mg/L,60 mg/L,13 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,72%
+55%,24°C,5.8,Flowering,Full sun,Every three days,70 mg/L,16 mg/L,130 mg/L,120 mg/L,60 mg/L,13 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,70%
+70%,26°C,6.6,Maturity,Full sun,Every two days,110 mg/L,30 mg/L,250 mg/L,170 mg/L,80 mg/L,20 mg/L,Low,Clayey,Weekly,Stakes,2024-10-20,130g,Red,Elongated,Sour,Soft,100,6 days,Fresh consumption,70%
+60%,26°C,5.8,Flowering,Full sun,Every three days,70 mg/L,16 mg/L,130 mg/L,120 mg/L,60 mg/L,13 mg/L,Medium,Clayey,Monthly,Cage,2024-07-10,85g,Green,Round,Sour,Soft,45,6 days,Inedible,68%
+58%,18°C,6.8,Maturity,Full sun,Every three days,130 mg/L,30 mg/L,200 mg/L,180 mg/L,100 mg/L,20 mg/L,High,Clayey,Weekly,Stakes,2024-10-20,150g,Red,Elongated,Sweet,Firm,90,6 days,Fresh consumption,65%
+55%,24°C,6.5,Flowering,Partial shade,Every three days,95 mg/L,30 mg/L,170 mg/L,150 mg/L,75 mg/L,18 mg/L,Medium,Loamy,Monthly,Cage,2024-09-05,135g,Red,Oval,Sour,Soft,55,6 days,Fresh consumption,65%
+65%,25°C,6.3,Seed,Full sun,Every three days,100 mg/L,26 mg/L,160 mg/L,140 mg/L,65 mg/L,22 mg/L,Medium,Sandy,Weekly,Stakes,2024-07-25,120g,Yellow,Round,Sweet,Firm,55,6 days,Fresh consumption,64%
+64%,27°C,5.8,Vegetative,Full sun,Every two days,115 mg/L,30 mg/L,180 mg/L,150 mg/L,70 mg/L,22 mg/L,Medium,Clayey,Monthly,Cage,2024-10-05,150g,Yellow,Irregular,Sour,Soft,65,6 days,Fresh consumption,61%
+70%,26°C,6.4,Maturity,Full sun,Every three days,140 mg/L,30 mg/L,200 mg/L,190 mg/L,90 mg/L,25 mg/L,High,Loamy,Weekly,Trellis,2024-10-20,170g,Red,Elongated,Sour,Soft,70,6 days,Fresh consumption,58%
+64%,27°C,6.5,Vegetative,Full sun,Every two days,115 mg/L,30 mg/L,180 mg/L,150 mg/L,70 mg/L,22 mg/L,Medium,Clayey,Monthly,Cage,2024-10-05,150g,Yellow,Irregular,Sour,Soft,65,6 days,Fresh consumption,55%
+75%,30°C,6,Flowering,Full sun,Every three days,85 mg/L,22 mg/L,140 mg/L,130 mg/L,60 mg/L,15 mg/L,Medium,Clayey,Monthly,Cage,2024-09-05,135g,Orange,Irregular,Sour,Juicy,55,6 days,Canning,52%
+70%,27°C,6.2,Maturity,Full sun,Every three days,140 mg/L,40 mg/L,220 mg/L,160 mg/L,100 mg/L,20 mg/L,Low,Clayey,Weekly,Cage,2024-10-20,150g,Red,Elongated,Sour,Soft,100,6 days,Fresh consumption,48%
+70%,22°C,6.6,Maturity,Full sun,Every three days,110 mg/L,30 mg/L,240 mg/L,180 mg/L,70 mg/L,30 mg/L,High,Clayey,Monthly,Cage,2024-10-20,150g,Red,Elongated,Sour,Soft,100,6 days,Fresh consumption,40%
+70%,22°C,6.6,Maturity,Full sun,Every three days,110,30,240,180,70,30,High,Clayey,Monthly,Cage,2024-10-20,150g,Red,Elongated,Sour,Soft,100,6 days,Fresh consumption,38%
+78%,25°C,6.7,Seed,Full sun,Every three days,130 mg/L,35 mg/L,230 mg/L,160 mg/L,90 mg/L,30 mg/L,Low,Loamy,Monthly,Cage,2024-10-20,200g,Red,Elongated,Balanced,Juicy,110,6 days,Fresh consumption,35%
+78%,25°C,6.7,Seed,Full sun,Every three days,130 mg/L,35 mg/L,230 mg/L,160 mg/L,90 mg/L,30 mg/L,Low,Loamy,Monthly,Cage,2024-10-20,200g,Red,Elongated,Balanced,Juicy,110,6 days,Fresh consumption,33%
+75%,27°C,6.5,Vegetative,Full sun,Every two days,170 mg/L,35 mg/L,230 mg/L,160 mg/L,110 mg/L,40 mg/L,None,Clayey,Monthly,Cage,2024-10-05,280g,Yellow,Irregular,Sweet,Soft,130,6 days,Fresh consumption,26%
+80%,29°C,6.8,Flowering,Full sun,Every three days,140 mg/L,35 mg/L,180 mg/L,140 mg/L,90 mg/L,30 mg/L,None,Sandy,Monthly,Cage,2024-09-05,160g,Orange,Irregular,Sweet,Juicy,80,6 days,Canning,24%
+40%,28°C,6.8,Maturity,Full sun,Every two days,130 mg/L,30 mg/L,170 mg/L,60 mg/L,100 mg/L,35 mg/L,High,Clayey,Fortnightly,Cage,2024-10-20,140g,Red,Elongated,Sour,Firm,80,6 days,Fresh consumption,18%
+38%,28°C,6.9,Maturity,Full sun,Every two days,120 mg/L,30 mg/L,160 mg/L,50 mg/L,100 mg/L,35 mg/L,High,Clayey,Fortnightly,Cage,2024-10-20,140g,Red,Elongated,Sour,Firm,90,6 days,Fresh consumption,15%
+42%,28°C,6.8,Maturity,Full sun,Every two days,120 mg/L,30 mg/L,170 mg/L,50 mg/L,100 mg/L,35 mg/L,High,Clayey,Fortnightly,Cage,2024-10-20,140g,Red,Elongated,Sour,Firm,90,6 days,Fresh consumption,10%
+50%,22°C,6.6,Maturity,Full sun,Every two days,120 mg/L,30 mg/L,170 mg/L,50 mg/L,100 mg/L,35 mg/L,High,Clayey,Fortnightly,Cage,2024-10-20,140g,Red,Elongated,Sour,Firm,90,6 days,Fresh consumption,6%
+50%,22°C,6.1,Maturity,Full sun,Every two days,120 mg/L,30 mg/L,170 mg/L,50 mg/L,100 mg/L,35 mg/L,High,Clayey,Fortnightly,Cage,2024-10-20,140g,Red,Elongated,Sour,Firm,90,6 days,Fresh consumption,5%
+39%,23°C,5.7,Seed,Partial shade,Every three days,30 mg/L,6 mg/L,60 mg/L,100 mg/L,40 mg/L,9 mg/L,High,Clayey,Monthly,Stakes,2024-07-25,75g,Green,Round,Sour,Soft,45,7 days,Inedible,98%
+80%,40°C,5.8,Vegetative,Full sun,Every three days,130 mg/L,50 mg/L,210 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,97%
+80%,40°C,5.8,Vegetative,Full sun,Every three days,130 mg/L,50 mg/L,210 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,97%
+58%,30°C,5,Flowering,Full sun,Every two days,40 mg/L,15 mg/L,50 mg/L,40 mg/L,20 mg/L,8 mg/L,Low,Loamy,Fortnightly,Trellis,2024-08-05,90g,Green,Irregular,Sour,Soft,30,7 days,Inedible,90%
+52%,25°C,6,Vegetative,Partial shade,Every three days,55 mg/L,13 mg/L,90 mg/L,100 mg/L,45 mg/L,10 mg/L,High,Clayey,Monthly,Stakes,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,88%
+52%,28°C,5.5,Vegetative,Partial shade,Every three days,45 mg/L,12 mg/L,80 mg/L,90 mg/L,40 mg/L,9 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-15,85g,Green,Round,Sour,Soft,40,7 days,Inedible,85%
+65%,28°C,6.5,Vegetative,Full sun,Every three days,100 mg/L,35 mg/L,180 mg/L,200 mg/L,100 mg/L,25 mg/L,Medium,Clayey,Monthly,Trellis,2024-08-05,100g,Orange,Irregular,Sour,Soft,70,7 days,Canning,80%
+80%,10°C,5.8,Vegetative,Full sun,Every three days,130 mg/L,50 mg/L,210 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,78%
+80%,10°C,5.8,Vegetative,Full sun,Every three days,130 mg/L,50 mg/L,210 mg/L,180 mg/L,90 mg/L,25 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,78%
+58%,30°C,5,Flowering,Full sun,Every two days,40 mg/L,15 mg/L,50 mg/L,40 mg/L,20 mg/L,8 mg/L,Low,Loamy,Fortnightly,Trellis,2024-08-05,90g,Green,Irregular,Sour,Soft,30,7 days,Inedible,78%
+80%,29°C,6.5,Maturity,Full sun,Every two days,130 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,30 mg/L,Low,Loamy,Fortnightly,Trellis,2024-08-05,130g,Red,Round,Sour,Soft,60,7 days,Canning,78%
+61%,28°C,5.5,Seedling,Partial shade,Every three days,55 mg/L,13 mg/L,90 mg/L,100 mg/L,45 mg/L,10 mg/L,High,Clayey,Monthly,Stakes,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,77%
+59%,29°C,5.8,Maturity,Full sun,Every two days,55 mg/L,12 mg/L,90 mg/L,70 mg/L,35 mg/L,6 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-09-25,140g,Yellow,Round,Sour,Soft,40,7 days,Inedible,77%
+62%,28°C,5.5,Vegetative,Partial shade,Every three days,55 mg/L,13 mg/L,90 mg/L,100 mg/L,45 mg/L,10 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,74%
+70%,20°C,6.7,Flowering,Full sun,Every two days,110 mg/L,30 mg/L,170 mg/L,150 mg/L,80 mg/L,10 mg/L,Low,Loamy,Weekly,Cage,2024-08-05,120g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,73%
+60%,26°C,5.6,Vegetative,Full sun,Every three days,60 mg/L,14 mg/L,120 mg/L,130 mg/L,65 mg/L,12 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,70%
+72%,30°C,5,Flowering,Full sun,Every two days,250 mg/L,40 mg/L,300 mg/L,200 mg/L,90 mg/L,40 mg/L,High,Loamy,Fortnightly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,70%
+68%,26°C,6.5,Vegetative,Full sun,Every two days,100 mg/L,40 mg/L,190 mg/L,190 mg/L,100 mg/L,25 mg/L,High,Clayey,Weekly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,70%
+79%,31°C,6.7,Seed,Full sun,Every three days,100 mg/L,25 mg/L,170 mg/L,130 mg/L,60 mg/L,21 mg/L,Medium,Loamy,Weekly,Trellis,2024-07-25,120g,Red,Round,Balanced,Firm,60,7 days,Fresh consumption,68%
+50%,26°C,5.6,Vegetative,Full sun,Every three days,60 mg/L,14 mg/L,120 mg/L,130 mg/L,65 mg/L,12 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,68%
+72%,30°C,5,Flowering,Full sun,Every two days,250 mg/L,40 mg/L,300 mg/L,200 mg/L,90 mg/L,40 mg/L,High,Loamy,Fortnightly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,67%
+67%,29°C,6.2,Seedling,Full sun,Every two days,95 mg/L,24 mg/L,175 mg/L,150 mg/L,70 mg/L,19 mg/L,High,Sandy,Weekly,Stakes,2024-08-15,130g,Red,Elongated,Sweet,Soft,75,7 days,Sauce,61%
+55%,28°C,5.6,Vegetative,Full sun,Every three days,60 mg/L,14 mg/L,120 mg/L,130 mg/L,65 mg/L,12 mg/L,Medium,Clayey,Monthly,Cage,2024-07-15,90g,Green,Round,Sour,Soft,50,7 days,Inedible,60%
+58%,30°C,5,Flowering,Full sun,Every two days,40 mg/L,15 mg/L,50 mg/L,40 mg/L,20 mg/L,8 mg/L,Low,Loamy,Fortnightly,Trellis,2024-08-05,90g,Green,Irregular,Sour,Soft,30,7 days,Inedible,60%
+70%,30°C,6.5,Vegetative,Full sun,Every two days,120 mg/L,35 mg/L,200 mg/L,180 mg/L,80 mg/L,25 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-08-05,150g,Red,Round,Sweet,Firm,80,7 days,Fresh consumption,60%
+70%,30°C,6.5,Vegetative,Full sun,Every two days,120 mg/L,35 mg/L,200 mg/L,180 mg/L,80 mg/L,25 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-08-05,150g,Red,Round,Sweet,Firm,80,7 days,Fresh consumption,60%
+80%,33°C,6.7,Flowering,Full sun,Every two days,100 mg/L,30 mg/L,220 mg/L,170 mg/L,70 mg/L,30 mg/L,Medium,Loamy,Monthly,Stakes,2024-09-02,230g,Orange,Round,Balanced,Juicy,80,7 days,Fresh consumption,55%
+75%,28°C,6.5,Seedling,Full sun,Every two days,90 mg/L,24 mg/L,175 mg/L,150 mg/L,70 mg/L,20 mg/L,High,Loamy,Monthly,Cage,2024-10-05,155g,Green,Oval,Balanced,Soft,65,7 days,Fresh consumption,55%
+74%,28°C,6.7,Seedling,Full sun,Every two days,95 mg/L,24 mg/L,170 mg/L,150 mg/L,70 mg/L,19 mg/L,High,Sandy,Weekly,Stakes,2024-08-30,130g,Yellow,Round,Sour,Juicy,80,7 days,Juice,52%
+72%,30°C,5,Flowering,Full sun,Every two days,250 mg/L,40 mg/L,300 mg/L,200 mg/L,90 mg/L,40 mg/L,High,Loamy,Fortnightly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,50%
+67%,29°C,6.2,Seedling,Full sun,Every two days,95 mg/L,24 mg/L,175 mg/L,150 mg/L,70 mg/L,19 mg/L,Medium,Sandy,Weekly,Stakes,2024-08-15,130g,Red,Elongated,Sweet,Soft,75,7 days,Sauce,48%
+78%,31°C,6.5,Seedling,Full sun,Every two days,140 mg/L,40 mg/L,210 mg/L,170 mg/L,70 mg/L,30 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-08-05,210g,Orange,Irregular,Sour,Firm,60,7 days,Canning,47%
+72%,29°C,6.8,Seedling,Full sun,Every two days,95 mg/L,22 mg/L,175 mg/L,150 mg/L,70 mg/L,21 mg/L,Medium,Sandy,Weekly,Stakes,2024-08-25,125g,Orange,Round,Sour,Juicy,75,7 days,Fresh consumption,47%
+79%,31°C,6.6,Seed,Full sun,Every three days,100 mg/L,25 mg/L,170 mg/L,130 mg/L,60 mg/L,21 mg/L,Medium,Loamy,Weekly,Trellis,2024-07-25,120g,Red,Round,Balanced,Firm,60,7 days,Fresh consumption,46%
+78%,32°C,6.3,Vegetative,Full sun,Every two days,140 mg/L,40 mg/L,200 mg/L,170 mg/L,90 mg/L,20 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-08-05,190g,Red,Round,Sweet,Soft,60,7 days,Canning,46%
+72%,30°C,5,Flowering,Full sun,Every two days,250 mg/L,40 mg/L,300 mg/L,200 mg/L,90 mg/L,40 mg/L,High,Loamy,Fortnightly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,42%
+68%,33°C,5.9,Seedling,Full sun,Every three days,130 mg/L,35 mg/L,190 mg/L,180 mg/L,100 mg/L,25 mg/L,High,Clayey,Fortnightly,Trellis,2024-10-05,190g,Orange,Round,Sour,Juicy,100,7 days,Fresh consumption,42%
+68%,24°C,6.2,Vegetative,Full sun,Every three days,100 mg/L,35 mg/L,220 mg/L,160 mg/L,90 mg/L,20 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-10-05,180g,Orange,Round,Sour,Juicy,100,7 days,Fresh consumption,42%
+62%,18°C,6.5,Flowering,Full sun,Every two days,100 mg/L,30 mg/L,190 mg/L,150 mg/L,80 mg/L,15 mg/L,High,Loamy,Weekly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,40%
+62%,18°C,6.5,Flowering,Full sun,Every two days,100,30,190,150,80,15,High,Loamy,Weekly,Trellis,2024-08-05,120g,Orange,Irregular,Sour,Soft,70,7 days,Canning,40%
+72%,33°C,6.7,Flowering,Full sun,Every two days,110 mg/L,40 mg/L,240 mg/L,170 mg/L,90 mg/L,20 mg/L,Medium,Clayey,Monthly,Cage,2024-09-10,180g,Orange,Round,Balanced,Juicy,90,7 days,Juice,35%
+58%,30°C,5,Flowering,Full sun,Every two days,40 mg/L,15 mg/L,50 mg/L,40 mg/L,20 mg/L,8 mg/L,Low,Loamy,Fortnightly,Trellis,2024-08-05,90g,Green,Irregular,Sour,Soft,30,7 days,Inedible,27%
+75%,29°C,6.2,Seedling,Full sun,Every two days,150 mg/L,35 mg/L,210 mg/L,140 mg/L,90 mg/L,30 mg/L,None,Sandy,Weekly,Stakes,2024-08-15,220g,Red,Elongated,Sour,Soft,110,7 days,Sauce,25%
+78%,31°C,6.7,Seed,Full sun,Every three days,180 mg/L,40 mg/L,240 mg/L,170 mg/L,120 mg/L,45 mg/L,None,Sandy,Weekly,Trellis,2024-07-25,300g,Red,Round,Sweet,Firm,150,7 days,Fresh consumption,25%
+72%,31°C,6.4,Seedling,Full sun,Every three days,130 mg/L,40 mg/L,210 mg/L,190 mg/L,100 mg/L,25 mg/L,High,Sandy,Weekly,Cage,2024-10-05,260g,Orange,Round,Balanced,Firm,160,7 days,Fresh consumption,25%
+72%,31°C,6.4,Seedling,Full sun,Every three days,130 mg/L,40 mg/L,210 mg/L,190 mg/L,100 mg/L,25 mg/L,High,Sandy,Weekly,Cage,2024-10-05,260g,Orange,Round,Balanced,Firm,160,7 days,Fresh consumption,25%
+58%,22°C,6.2,Vegetative,Full sun,Every three days,100 mg/L,30 mg/L,120 mg/L,90 mg/L,70 mg/L,20 mg/L,Medium,Sandy,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Firm,50,7 days,Canning,19%
+50%,22°C,6.3,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,110 mg/L,80 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,15%
+58%,22°C,6.2,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,120 mg/L,70 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,10%
+50%,22°C,6.3,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,110 mg/L,80 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,10%
+57%,28°C,6.1,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,110 mg/L,80 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,8%
+58%,28°C,6,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,110 mg/L,80 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,5%
+58%,28°C,6.2,Vegetative,Full sun,Every three days,90 mg/L,30 mg/L,110 mg/L,80 mg/L,70 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Cage,2024-08-05,110g,Orange,Irregular,Balanced,Soft,60,7 days,Canning,3%
+85%,40°C,5.5,Maturity,Full sun,Every three days,140 mg/L,60 mg/L,220 mg/L,170 mg/L,80 mg/L,30 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,99%
+85%,40°C,5.5,Maturity,Full sun,Every three days,140 mg/L,60 mg/L,220 mg/L,170 mg/L,80 mg/L,30 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,98%
+43%,21°C,5.2,Seedling,Partial shade,Every three days,25 mg/L,5 mg/L,50 mg/L,110 mg/L,45 mg/L,10 mg/L,High,Clayey,Monthly,Stakes,2024-07-30,80g,Green,Round,Sour,Soft,50,8 days,Inedible,98%
+50%,35°C,5.4,Fruit,Full sun,Every two days,35 mg/L,12 mg/L,45 mg/L,35 mg/L,18 mg/L,6 mg/L,Low,Loamy,Weekly,Cage,2024-09-25,100g,Green,Round,Sour,Juicy,40,8 days,Inedible,96%
+58%,27°C,5.6,Maturity,Partial shade,Every three days,50 mg/L,12 mg/L,80 mg/L,110 mg/L,50 mg/L,11 mg/L,High,Clayey,Monthly,Stakes,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,88%
+45%,26°C,6,Maturity,Partial shade,Every three days,40 mg/L,11 mg/L,70 mg/L,100 mg/L,45 mg/L,10 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-20,90g,Green,Round,Sour,Soft,45,8 days,Inedible,85%
+57%,22°C,6.3,Seed,Full sun,Every three days,45 mg/L,8 mg/L,80 mg/L,60 mg/L,30 mg/L,4 mg/L,Low,Clayey,Monthly,Trellis,2024-10-20,150g,Red,Elongated,Sour,Soft,50,8 days,Inedible,80%
+54%,26°C,6,Flowering,Partial shade,Every three days,50 mg/L,12 mg/L,80 mg/L,110 mg/L,50 mg/L,11 mg/L,High,Clayey,Monthly,Stakes,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,75%
+85%,10°C,5.5,Maturity,Full sun,Every three days,140 mg/L,60 mg/L,220 mg/L,170 mg/L,80 mg/L,30 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,75%
+85%,10°C,5.5,Maturity,Full sun,Every three days,140 mg/L,60 mg/L,220 mg/L,170 mg/L,80 mg/L,30 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,75%
+55%,26°C,6,Maturity,Partial shade,Every three days,50 mg/L,12 mg/L,80 mg/L,110 mg/L,50 mg/L,11 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,74%
+70%,28°C,5,Seedling,Full sun,Every two days,95 mg/L,20 mg/L,160 mg/L,120 mg/L,70 mg/L,18 mg/L,High,Sandy,Fortnightly,Stakes,2024-08-20,125g,Yellow,Round,Sour,Juicy,55,8 days,Juice,73%
+50%,35°C,5.4,Fruit,Full sun,Every two days,35 mg/L,12 mg/L,45 mg/L,35 mg/L,18 mg/L,6 mg/L,Low,Loamy,Weekly,Cage,2024-09-25,100g,Green,Round,Sour,Juicy,40,8 days,Inedible,72%
+55%,28°C,5.4,Maturity,Full sun,Every three days,50 mg/L,12 mg/L,110 mg/L,140 mg/L,70 mg/L,11 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,68%
+73%,28°C,6.6,Maturity,Full sun,Every three days,120 mg/L,35 mg/L,240 mg/L,180 mg/L,100 mg/L,25 mg/L,Medium,Clayey,Fortnightly,Cage,2024-09-25,240g,Red,Round,Sweet,Soft,90,8 days,Fresh consumption,65%
+65%,25°C,6.8,Seedling,Full sun,Every three days,100 mg/L,25 mg/L,160 mg/L,120 mg/L,70 mg/L,20 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-08-10,125g,Yellow,Round,Balanced,Soft,60,8 days,Fresh consumption,65%
+73%,32°C,6.1,Fruit,Full sun,Every three days,140 mg/L,25 mg/L,230 mg/L,190 mg/L,100 mg/L,25 mg/L,High,Loamy,Fortnightly,Trellis,2024-09-25,120g,Yellow,Irregular,Sweet,Juicy,90,8 days,Fresh consumption,65%
+73%,28°C,6.3,Fruit,Full sun,Every two days,130 mg/L,35 mg/L,220 mg/L,170 mg/L,80 mg/L,20 mg/L,Medium,Clayey,Fortnightly,Stakes,2024-09-25,180g,Yellow,Irregular,Sweet,Juicy,60,8 days,Sauce,65%
+65%,25°C,6.9,Vegetative,Full sun,Every three days,100 mg/L,25 mg/L,160 mg/L,120 mg/L,70 mg/L,20 mg/L,High,Sandy,Fortnightly,Trellis,2024-08-10,125g,Yellow,Round,Balanced,Soft,60,8 days,Fresh consumption,64%
+45%,28°C,5.4,Maturity,Full sun,Every three days,50 mg/L,12 mg/L,110 mg/L,140 mg/L,70 mg/L,11 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,60%
+76%,35°C,6.1,Fruit,Full sun,Every two days,300 mg/L,50 mg/L,250 mg/L,300 mg/L,150 mg/L,50 mg/L,High,Loamy,Weekly,Cage,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,60%
+73%,30°C,6.8,Maturity,Full sun,Every two days,110 mg/L,28 mg/L,150 mg/L,160 mg/L,70 mg/L,22 mg/L,Low,Sandy,Weekly,Trellis,2024-08-10,125g,Orange,Round,Sweet,Firm,65,8 days,Fresh consumption,55%
+64%,26°C,6.5,Seed,Full sun,Every three days,110 mg/L,28 mg/L,165 mg/L,140 mg/L,65 mg/L,22 mg/L,Low,Sandy,Fortnightly,Trellis,2024-09-20,140g,Yellow,Round,Sweet,Firm,60,8 days,Fresh consumption,55%
+71%,25°C,6.3,Seed,Full sun,Every three days,105 mg/L,27 mg/L,160 mg/L,150 mg/L,65 mg/L,22 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-09-25,135g,Green,Round,Sweet,Firm,65,8 days,Fresh consumption,55%
+45%,30°C,6.4,Fruit,Partial shade,Every two days,120 mg/L,40 mg/L,190 mg/L,170 mg/L,90 mg/L,30 mg/L,Medium,Loamy,Monthly,Cage,2024-09-25,140g,Yellow,Round,Sweet,Juicy,80,8 days,Sauce,50%
+70%,28°C,6,Seedling,Full sun,Every two days,95 mg/L,20 mg/L,160 mg/L,120 mg/L,70 mg/L,18 mg/L,Medium,Sandy,Fortnightly,Stakes,2024-08-20,125g,Yellow,Round,Sour,Juicy,55,8 days,Juice,50%
+50%,30°C,5.4,Maturity,Full sun,Every three days,50 mg/L,12 mg/L,110 mg/L,140 mg/L,70 mg/L,11 mg/L,Medium,Clayey,Monthly,Cage,2024-07-20,95g,Green,Round,Sour,Soft,55,8 days,Inedible,50%
+76%,35°C,6.1,Fruit,Full sun,Every two days,300 mg/L,50 mg/L,250 mg/L,300 mg/L,150 mg/L,50 mg/L,High,Loamy,Weekly,Cage,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,49%
+77%,31°C,6.6,Flowering,Full sun,Every two days,110 mg/L,28 mg/L,165 mg/L,160 mg/L,75 mg/L,20 mg/L,Low,Loamy,Weekly,Cage,2024-08-20,135g,Orange,Round,Sour,Juicy,70,8 days,Sauce,45%
+73%,26°C,7.2,Flowering,Full sun,Every three days,105 mg/L,27 mg/L,160 mg/L,140 mg/L,65 mg/L,20 mg/L,Low,Loamy,Fortnightly,Trellis,2024-09-10,145g,Orange,Round,Balanced,Firm,80,8 days,Fresh consumption,44%
+73%,26°C,7,Flowering,Full sun,Every three days,105 mg/L,27 mg/L,160 mg/L,140 mg/L,65 mg/L,20 mg/L,Medium,Loamy,Fortnightly,Trellis,2024-09-10,145g,Orange,Round,Balanced,Firm,80,8 days,Fresh consumption,44%
+50%,35°C,5.4,Fruit,Full sun,Every two days,35 mg/L,12 mg/L,45 mg/L,35 mg/L,18 mg/L,6 mg/L,Low,Loamy,Weekly,Cage,2024-09-25,100g,Green,Round,Sour,Juicy,40,8 days,Inedible,42%
+73%,29°C,6.3,Fruit,Full sun,Every two days,130 mg/L,35 mg/L,240 mg/L,200 mg/L,90 mg/L,35 mg/L,Medium,Loamy,Monthly,Trellis,2024-09-25,140g,Yellow,Irregular,Sweet,Juicy,90,8 days,Fresh consumption,40%
+70%,26°C,6.1,Maturity,Full sun,Every two days,110 mg/L,30 mg/L,210 mg/L,180 mg/L,100 mg/L,15 mg/L,Medium,Loamy,Weekly,Stakes,2024-09-25,200g,Yellow,Elongated,Sweet,Firm,90,8 days,Sauce,36%
+76%,35°C,6.1,Fruit,Full sun,Every two days,300 mg/L,50 mg/L,250 mg/L,300 mg/L,150 mg/L,50 mg/L,High,Loamy,Weekly,Cage,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,35%
+73%,29°C,6.1,Fruit,Full sun,Every two days,140 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,High,Loamy,Weekly,Stakes,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,32%
+73%,29°C,6.1,Fruit,Full sun,Every two days,140,40,200,190,100,20,High,Loamy,Weekly,Stakes,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,32%
+68%,28°C,6.6,Vegetative,Full sun,Every three days,120 mg/L,35 mg/L,200 mg/L,190 mg/L,100 mg/L,30 mg/L,Medium,Sandy,Weekly,Stakes,2024-10-05,190g,Yellow,Irregular,Sweet,Firm,100,8 days,Fresh consumption,30%
+76%,35°C,6.1,Fruit,Full sun,Every two days,300 mg/L,50 mg/L,250 mg/L,300 mg/L,150 mg/L,50 mg/L,High,Loamy,Weekly,Cage,2024-09-25,140g,Yellow,Round,Sour,Juicy,90,8 days,Sauce,29%
+75%,29°C,6.1,Flowering,Full sun,Every two days,140 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,High,Loamy,Weekly,Stakes,2024-09-25,220g,Yellow,Round,Sour,Juicy,130,8 days,Sauce,29%
+75%,29°C,6.1,Flowering,Full sun,Every two days,140 mg/L,40 mg/L,200 mg/L,190 mg/L,100 mg/L,20 mg/L,High,Loamy,Weekly,Stakes,2024-09-25,220g,Yellow,Round,Sour,Juicy,130,8 days,Sauce,28%
+70%,28°C,6.5,Seedling,Full sun,Every two days,190 mg/L,35 mg/L,250 mg/L,180 mg/L,130 mg/L,50 mg/L,None,Loamy,Fortnightly,Stakes,2024-08-20,320g,Yellow,Round,Balanced,Soft,170,8 days,Juice,28%
+75%,30°C,6.5,Seedling,Full sun,Every three days,130 mg/L,30 mg/L,170 mg/L,130 mg/L,80 mg/L,25 mg/L,None,Clayey,Fortnightly,Trellis,2024-08-10,150g,Yellow,Round,Balanced,Firm,70,8 days,Fresh consumption,26%
+80%,26°C,6.9,Flowering,Full sun,Every three days,160 mg/L,40 mg/L,220 mg/L,150 mg/L,100 mg/L,35 mg/L,None,Loamy,Fortnightly,Trellis,2024-09-10,250g,Orange,Round,Balanced,Firm,120,8 days,Fresh consumption,22%
+50%,35°C,5.4,Fruit,Full sun,Every two days,35 mg/L,12 mg/L,45 mg/L,35 mg/L,18 mg/L,6 mg/L,Low,Loamy,Weekly,Cage,2024-09-25,100g,Green,Round,Sour,Juicy,40,8 days,Inedible,22%
+45%,26°C,6.6,Fruit,Full sun,Every three days,120 mg/L,40 mg/L,150 mg/L,70 mg/L,90 mg/L,30 mg/L,High,Sandy,Weekly,Trellis,2024-09-25,130g,Yellow,Round,Sour,Soft,70,8 days,Sauce,18%
+42%,26°C,6.7,Fruit,Full sun,Every three days,110 mg/L,40 mg/L,140 mg/L,60 mg/L,90 mg/L,30 mg/L,High,Loamy,Weekly,Trellis,2024-09-25,130g,Yellow,Round,Sour,Soft,80,8 days,Sauce,15%
+47%,26°C,6.6,Fruit,Full sun,Every three days,110 mg/L,40 mg/L,150 mg/L,70 mg/L,90 mg/L,30 mg/L,High,Loamy,Weekly,Trellis,2024-09-25,130g,Yellow,Round,Sour,Soft,80,8 days,Sauce,10%
+52%,20°C,6.3,Fruit,Full sun,Every three days,110 mg/L,40 mg/L,150 mg/L,70 mg/L,90 mg/L,30 mg/L,High,Sandy,Weekly,Trellis,2024-09-25,130g,Yellow,Round,Sour,Soft,80,8 days,Sauce,7%
+52%,20°C,6.8,Fruit,Full sun,Every three days,110 mg/L,40 mg/L,150 mg/L,70 mg/L,90 mg/L,30 mg/L,High,Sandy,Weekly,Trellis,2024-09-25,130g,Yellow,Round,Sour,Soft,80,8 days,Sauce,5%
+36%,27°C,5.6,Flowering,Partial shade,Every three days,20 mg/L,4 mg/L,40 mg/L,120 mg/L,50 mg/L,11 mg/L,High,Clayey,Monthly,Stakes,2024-08-05,85g,Green,Round,Sour,Soft,55,9 days,Inedible,100%
+50%,23°C,5.7,Seed,Partial shade,Every three days,35 mg/L,10 mg/L,60 mg/L,110 mg/L,50 mg/L,11 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-25,95g,Green,Round,Sour,Soft,50,9 days,Inedible,84%
+60%,27°C,7,Seedling,Full sun,Every two days,55 mg/L,10 mg/L,100 mg/L,80 mg/L,40 mg/L,7 mg/L,Medium,Loamy,Weekly,Cage,2024-07-20,160g,Orange,Round,Sour,Soft,55,9 days,Inedible,78%
+59%,23°C,5.7,Vegetative,Partial shade,Every three days,45 mg/L,10 mg/L,70 mg/L,100 mg/L,45 mg/L,10 mg/L,High,Clayey,Monthly,Stakes,2024-07-25,100g,Green,Round,Sour,Soft,60,9 days,Inedible,75%
+80%,22°C,6.4,Flowering,Full sun,Every two days,120 mg/L,40 mg/L,240 mg/L,160 mg/L,90 mg/L,30 mg/L,High,Sandy,Weekly,Cage,2024-09-02,110g,Red,Round,Balanced,Firm,80,9 days,Sauce,72%
+60%,23°C,5.7,Seed,Partial shade,Every three days,45 mg/L,10 mg/L,70 mg/L,100 mg/L,45 mg/L,10 mg/L,Medium,Clayey,Monthly,Stakes,2024-07-25,100g,Green,Round,Sour,Soft,60,9 days,Inedible,71%
+70%,25°C,6.5,Seed,Full sun,Every three days,130 mg/L,40 mg/L,210 mg/L,190 mg/L,90 mg/L,20 mg/L,Medium,Sandy,Weekly,Trellis,2024-10-20,180g,Yellow,Irregular,Sour,Juicy,80,9 days,Sauce,70%
+80%,32°C,6.6,Flowering,Full sun,Every three days,120 mg/L,30 mg/L,230 mg/L,180 mg/L,100 mg/L,25 mg/L,Medium,Loamy,Monthly,Cage,2024-09-02,240g,Red,Round,Balanced,Soft,50,9 days,Fresh consumption,65%
+80%,30°C,6.4,Flowering,Full sun,Every three days,130 mg/L,30 mg/L,230 mg/L,160 mg/L,100 mg/L,35 mg/L,Medium,Sandy,Monthly,Cage,2024-09-02,220g,Orange,Irregular,Sour,Firm,70,9 days,Fresh consumption,65%
+75%,32°C,6.6,Flowering,Full sun,Every three days,120 mg/L,30 mg/L,220 mg/L,180 mg/L,80 mg/L,30 mg/L,High,Sandy,Fortnightly,Cage,2024-09-02,130g,Red,Round,Balanced,Firm,80,9 days,Sauce,65%
+75%,27°C,6.6,Flowering,Full sun,Every two days,140 mg/L,20 mg/L,210 mg/L,160 mg/L,80 mg/L,25 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-07-20,160g,Orange,Round,Sour,Soft,80,9 days,Fresh consumption,55%
+68%,27°C,6.7,Maturity,Full sun,Every three days,120 mg/L,31 mg/L,190 mg/L,170 mg/L,80 mg/L,25 mg/L,Medium,Sandy,Fortnightly,Trellis,2024-09-15,145g,Red,Oval,Sweet,Soft,75,9 days,Fresh consumption,54%
+70%,26°C,6.6,Flowering,Full sun,Every two days,105 mg/L,27 mg/L,155 mg/L,170 mg/L,75 mg/L,19 mg/L,Medium,Loamy,Weekly,Cage,2024-08-15,130g,Orange,Oval,Balanced,Soft,70,9 days,Fresh consumption,50%
+75%,28°C,6.8,Flowering,Full sun,Every two days,140 mg/L,30 mg/L,220 mg/L,190 mg/L,90 mg/L,25 mg/L,Medium,Sandy,Weekly,Stakes,2024-09-02,160g,Yellow,Round,Sour,Juicy,90,9 days,Sauce,48%
+75%,28°C,6.8,Flowering,Full sun,Every two days,140 mg/L,30 mg/L,220 mg/L,190 mg/L,90 mg/L,25 mg/L,Medium,Sandy,Weekly,Stakes,2024-09-02,160g,Yellow,Round,Sour,Juicy,90,9 days,Sauce,48%
+69%,24°C,6.6,Flowering,Full sun,Every two days,105 mg/L,26 mg/L,180 mg/L,160 mg/L,75 mg/L,20 mg/L,High,Loamy,Weekly,Cage,2024-10-15,145g,Orange,Round,Balanced,Soft,70,9 days,Sauce,48%
+79%,32°C,6.5,Flowering,Full sun,Every two days,115 mg/L,29 mg/L,185 mg/L,160 mg/L,75 mg/L,21 mg/L,Low,Sandy,Weekly,Cage,2024-10-20,140g,Orange,Round,Sour,Soft,70,9 days,Sauce,47%
+75%,30°C,6.3,Seed,Full sun,Every three days,90 mg/L,20 mg/L,250 mg/L,200 mg/L,80 mg/L,25 mg/L,Medium,Loamy,Weekly,Cage,2024-07-20,220g,Red,Round,Balanced,Soft,80,9 days,Fresh consumption,45%
+78%,31°C,6.5,Seed,Full sun,Every two days,130 mg/L,25 mg/L,250 mg/L,170 mg/L,70 mg/L,25 mg/L,Medium,Loamy,Fortnightly,Stakes,2024-07-20,160g,Orange,Round,Sour,Soft,80,9 days,Fresh consumption,42%
+78%,27°C,6.7,Flowering,Full sun,Every two days,130 mg/L,20 mg/L,250 mg/L,170 mg/L,90 mg/L,20 mg/L,Low,Sandy,Fortnightly,Trellis,2024-07-20,160g,Orange,Round,Sour,Juicy,80,9 days,Fresh consumption,30%
+78%,27°C,6.7,Flowering,Full sun,Every two days,130,20,250,170,90,20,Low,Sandy,Fortnightly,Trellis,2024-07-20,160g,Orange,Round,Sour,Juicy,80,9 days,Fresh consumption,30%
+50%,24°C,6.4,Flowering,Full sun,Every two days,110 mg/L,35 mg/L,130 mg/L,80 mg/L,80 mg/L,25 mg/L,High,Loamy,Monthly,Stakes,2024-09-02,120g,Red,Elongated,Sweet,Soft,60,9 days,Fresh consumption,18%
+47%,24°C,6.5,Flowering,Full sun,Every two days,100 mg/L,35 mg/L,120 mg/L,70 mg/L,80 mg/L,25 mg/L,High,Sandy,Monthly,Stakes,2024-09-02,120g,Red,Elongated,Sweet,Firm,70,9 days,Fresh consumption,15%
+50%,24°C,6.4,Flowering,Full sun,Every two days,100 mg/L,35 mg/L,130 mg/L,60 mg/L,80 mg/L,25 mg/L,High,Sandy,Monthly,Stakes,2024-09-02,120g,Red,Elongated,Sweet,Firm,70,9 days,Fresh consumption,10%
+55%,18°C,5.8,Flowering,Full sun,Every two days,100 mg/L,35 mg/L,130 mg/L,60 mg/L,80 mg/L,25 mg/L,High,Loamy,Monthly,Stakes,2024-09-02,120g,Red,Elongated,Sweet,Firm,70,9 days,Fresh consumption,8%
+55%,18°C,6.5,Flowering,Full sun,Every two days,100 mg/L,35 mg/L,130 mg/L,60 mg/L,80 mg/L,25 mg/L,High,Loamy,Monthly,Stakes,2024-09-02,120g,Red,Elongated,Sweet,Firm,70,9 days,Fresh consumption,5%
